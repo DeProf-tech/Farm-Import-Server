@@ -1,0 +1,14 @@
+{
+  "name": "import-farm",
+  "version": "1.0.0",
+  "description": "A lightweight backend project with data rendering and routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "AbdulSalam AbdulRahman",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
